@@ -1,3 +1,3 @@
-module github.com/achimonchi/go-mod
+module github.com/achimonchi/go-modules
 
 go 1.16
