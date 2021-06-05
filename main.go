@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	go_say_hello "github.com/achimonchi/go-modules/v2/mod"
+	go_say_hello "github.com/achimonchi/go-mod/v2/mod"
 )
 
 func main(){
