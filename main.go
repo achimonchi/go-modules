@@ -6,5 +6,6 @@ import (
 )
 
 func main(){
-	fmt.Println(go_say_hello.SayHello("Reyha", "10"))
+	fmt.Println(go_say_hello.Sum(1,2))
+
 }
